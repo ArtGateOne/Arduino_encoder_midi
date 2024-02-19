@@ -21,3 +21,11 @@ Notes are defined at numbers 123 124 125 126.
 I didn't need the encoder button - but you surely know how to add it yourself.
 
 Happy testing!
+
+
+can work on
+➡️ Arduino Uno
+➡️ Arduino Mega
+➡️ Arduino Leonardo
+➡️ Arduino Micro
+➡️ Arduino Pro Micro
